@@ -16,8 +16,8 @@ Feature Scaling: Standardized numeric features using StandardScaler to ensure eq
 ⚙️ Models Used
 
 Logistic Regression
-
-Random Forest Classifier (with GridSearchCV for hyperparameter tuning)
+Random Forest 
+Classifier (with GridSearchCV for hyperparameter tuning)
 
 📈 Model Evaluation
 
